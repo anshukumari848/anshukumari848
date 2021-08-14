@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ANSHU KUMARI
-  sophomore in MNNIT Allahabad 
+  sophomore at MNNIT Allahabad 
 - 🌱 I’m currently learning DSA and Development
 
 
